@@ -1,2 +1,16 @@
 Follow below video to run python on ATOM
 https://www.youtube.com/watch?v=Ei-G0fEOu9I
+
+
+install Pip
+https://www.codegrepper.com/code-examples/shell/install+pip
+
+
+Follow below steps to add pythonpath as an environment variable
+1. Go to File Explorer.  Navigate to C: → Users → (your user name) → AppData → Local → Programs → Python → Python38-32 (your python version) → Scripts
+2. Copy this path, e.g.,
+   C:\Users\(your username)\AppData\Local\Programs\Python\Python38-32\Scripts
+3. Right click on the "Computer", "My Computer" or "This PC" icon → select "Properties".  Click on "Advanced system settings" (on the left side).  (Enter your administrator password when requested.)  In the "System Properties" window, click on "Environment Variables" (near the bottom).  In the "Environment Variables" window, search for PATH under "System Variables".  Select it and click on "Edit…".  Add a semicolon (";") to the variable value and paste the path you had copied in step 1.
+4. Close your Command Prompt window.  Open a new Command Prompt window.
+5. You will now be able to run the commands you wanted to run.
+https://superuser.com/questions/1372793/the-script-is-installed-in-directory-which-is-not-path
