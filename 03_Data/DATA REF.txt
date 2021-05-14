@@ -1,0 +1,5 @@
+Get Spotify data through API
+https://developer.spotify.com/console/get-recently-played/
+
+Follow below video for turtorial
+https://www.youtube.com/watch?v=dvviIUKwH7o
